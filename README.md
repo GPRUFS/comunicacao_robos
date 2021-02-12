@@ -22,3 +22,13 @@ As dependências necessárias são relacionadas à comunicação USB (biblioteca
 ```
 
 A outra dependência é o QcustomPlot, que está presente neste repositório.
+
+# Contato
+
+Raphael Cardoso - cardosodeoliveir@gmail.com
+
+# Desenvolvido na 
+
+<p align="center">
+  <img src="imagens/ufs_horizontal_positiva.png" width="300" />
+</p>
