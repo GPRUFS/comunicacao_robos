@@ -29,6 +29,4 @@ Raphael Cardoso - cardosodeoliveir@gmail.com
 
 # Desenvolvido na 
 
-<p align="center">
-  <img src="imagens/ufs_horizontal_positiva.png" width="300" />
-</p>
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUcp7vYZRgwicMF9AaetSQfGM64N9bouygR3l-a8tDz7XUipSKP3BhaND1EhU407AWziJzVAeV30tfvnKl9Y&usqp=CAU&ec=45774424)
